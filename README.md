@@ -1,11 +1,11 @@
-About r-rtf
-===========
+About r-rtf-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rtf-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/schaffman5/rtf
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rtf-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of R functions to output Rich Text Format (RTF) files with high resolution tables and graphics that may be edited with a standard word processor such as Microsoft Word.
 
