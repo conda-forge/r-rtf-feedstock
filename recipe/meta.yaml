@@ -1,6 +1,5 @@
 {% set version = '0.4-14.1' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-rtf
@@ -13,8 +12,7 @@ source:
   sha256: 1066011c4a2842cdc846445ec3d4929d01c8fbae93bfad5313ade2ad3c704e0c
 
 build:
-  merge_build_host: True  # [win]
-  number: 1
+  number: 2
   noarch: generic
   rpaths:
     - lib/R/lib/
